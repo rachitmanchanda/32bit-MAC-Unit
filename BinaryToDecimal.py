@@ -12,3 +12,4 @@ print("Decimal multiplication will result in: " + str(c))
 cbin = input("What is the binary output: ")
 cdec = int(cbin, 2)
 print("Output from the MAC unit is: " + str(cdec))
+#THE FOLLWING CODE IS A CODE FUNCTIONAL FOR 32 BIT MAC UNIT
